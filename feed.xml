@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://chesterhow.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://chesterhow.github.io/" rel="alternate" type="text/html" /><updated>2021-06-07T15:21:04+02:00</updated><id>https://chesterhow.github.io/feed.xml</id><title type="html">Irgendwas passiert hier doch</title><subtitle>Florian Symmank's blog</subtitle><author><name>Florian Symmank</name><email>FlorianSymmank@gmx.de</email></author><entry><title type="html">Warum überhaupt</title><link href="https://chesterhow.github.io/2021-06-07/Warum" rel="alternate" type="text/html" title="Warum überhaupt" /><published>2021-06-07T00:00:00+02:00</published><updated>2021-06-07T00:00:00+02:00</updated><id>https://chesterhow.github.io/2021-06-07/Warum</id><content type="html" xml:base="https://chesterhow.github.io/2021-06-07/Warum">&lt;p&gt;Aktuell studiere ich Angewandte Informatik an der HTW-Berlin im 2. Semester und bin 23 Jahre alt (glaube ich). Eigentlich sollte ich grade wahrscheinlich Mathematik lernen oder einen Vortrag in Englisch vorbereiten, dass hört sich aber nicht grade spannend an. Da man aber nicht von prokrastinieren reden kann, wenn man etwas fachlich bezogenes macht und schon länger die Idee hatte einen Blog zu schreiben, fange ich jetzt damit an. Dank geht raus an Sebi der mit seinem &lt;a href=&quot;https://blog.sebastianreimer.com/&quot;&gt;Blog&lt;/a&gt; mich nun schlussendlich dazu bewegt hat anzufangen. Bisher habe ich keine Erfahrung mit dem Schreiben von Texten, von daher werden die ersten Texte eher holprig werden, stay with me.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="blog.floriansymmank.de/feed.xml" rel="self" type="application/atom+xml" /><link href="blog.floriansymmank.de/" rel="alternate" type="text/html" /><updated>2021-06-07T19:56:51+02:00</updated><id>blog.floriansymmank.de/feed.xml</id><title type="html">Irgendwas passiert hier doch</title><subtitle>Florian Symmank's blog</subtitle><author><name>Florian Symmank</name><email>FlorianSymmank@gmx.de</email></author><entry><title type="html">Warum überhaupt</title><link href="blog.floriansymmank.de/2021-06-07/Warum" rel="alternate" type="text/html" title="Warum überhaupt" /><published>2021-06-07T00:00:00+02:00</published><updated>2021-06-07T00:00:00+02:00</updated><id>blog.floriansymmank.de/2021-06-07/Warum</id><content type="html" xml:base="blog.floriansymmank.de/2021-06-07/Warum">&lt;p&gt;Aktuell studiere ich Angewandte Informatik an der HTW-Berlin im 2. Semester und bin 23 Jahre alt (glaube ich). Eigentlich sollte ich grade wahrscheinlich Mathematik lernen oder einen Vortrag in Englisch vorbereiten, dass hört sich aber nicht grade spannend an. Da man aber nicht von prokrastinieren reden kann, wenn man etwas fachlich bezogenes macht und schon länger die Idee hatte einen Blog zu schreiben, fange ich jetzt damit an. Dank geht raus an Sebi der mit seinem &lt;a href=&quot;https://blog.sebastianreimer.com/&quot;&gt;Blog&lt;/a&gt; mich nun schlussendlich dazu bewegt hat anzufangen. Bisher habe ich keine Erfahrung mit dem Schreiben von Texten, von daher werden die ersten Texte eher holprig werden, stay with me.&lt;/p&gt;
 
 &lt;p&gt;Ich habe nicht vor regelmäßig etwas zu verfassen, soll aber nicht heißen, dass nichts gepostet wird, eben nur wenn ich Lust habe. Die Themen werden sich wahrscheinlich rund um das Informatik-Studium drehen.&lt;/p&gt;
 
@@ -16,4 +16,230 @@
 
 &lt;p&gt;PS: kann ich Emotes verwenden🙃? (auf Windows: [Win] + [Punkt])&lt;/p&gt;
 
-&lt;p&gt;Dieser Post ist gleichzeitig die About-Seite.&lt;/p&gt;</content><author><name>Florian</name></author><category term="Intro" /><category term="About" /><summary type="html">Aktuell studiere ich Angewandte Informatik an der HTW-Berlin im 2. Semester und bin 23 Jahre alt (glaube ich). Eigentlich sollte ich grade wahrscheinlich Mathematik lernen oder einen Vortrag in Englisch vorbereiten, dass hört sich aber nicht grade spannend an. Da man aber nicht von prokrastinieren reden kann, wenn man etwas fachlich bezogenes macht und schon länger die Idee hatte einen Blog zu schreiben, fange ich jetzt damit an. Dank geht raus an Sebi der mit seinem Blog mich nun schlussendlich dazu bewegt hat anzufangen. Bisher habe ich keine Erfahrung mit dem Schreiben von Texten, von daher werden die ersten Texte eher holprig werden, stay with me.</summary></entry></feed>
+&lt;p&gt;Dieser Post ist gleichzeitig die About-Seite.&lt;/p&gt;</content><author><name>Florian</name></author><category term="Intro" /><category term="About" /><summary type="html">Aktuell studiere ich Angewandte Informatik an der HTW-Berlin im 2. Semester und bin 23 Jahre alt (glaube ich). Eigentlich sollte ich grade wahrscheinlich Mathematik lernen oder einen Vortrag in Englisch vorbereiten, dass hört sich aber nicht grade spannend an. Da man aber nicht von prokrastinieren reden kann, wenn man etwas fachlich bezogenes macht und schon länger die Idee hatte einen Blog zu schreiben, fange ich jetzt damit an. Dank geht raus an Sebi der mit seinem Blog mich nun schlussendlich dazu bewegt hat anzufangen. Bisher habe ich keine Erfahrung mit dem Schreiben von Texten, von daher werden die ersten Texte eher holprig werden, stay with me.</summary></entry><entry><title type="html">New Turing Omnibus</title><link href="blog.floriansymmank.de/2021-06-07/New-Turing-Omnibus" rel="alternate" type="text/html" title="New Turing Omnibus" /><published>2021-06-07T00:00:00+02:00</published><updated>2021-06-07T00:00:00+02:00</updated><id>blog.floriansymmank.de/2021-06-07/New%20Turing%20Omnibus</id><content type="html" xml:base="blog.floriansymmank.de/2021-06-07/New-Turing-Omnibus">&lt;p&gt;Ich benutze diesen Post dafür, um mich ein bisschen mit Markdown (den Jekyll kann Markdown automatisch in Html umwandeln) vertraut zu machen. Ziel ist es Bilder und Codeausschnitte einzufügen.&lt;/p&gt;
+
+&lt;h2 id=&quot;new-turing-omnibus&quot;&gt;New Turing Omnibus&lt;/h2&gt;
+
+&lt;p&gt;Auf Empfehlung meines Mathematik Dozenten habe ich mir vor zwei Wochen &lt;em&gt;New Turing Omnibus&lt;/em&gt; von &lt;em&gt;Dewdney&lt;/em&gt; besorgt. Gestern nahm ich das Buch das erste Mal in die Hand und wurde am Ende des ersten Kapitels &lt;em&gt;Algorithms&lt;/em&gt; dazu aufgefordert zwei Probleme zu lösen. Das war auch weiterer Grund diesen Blog zu anzufangen. Der Blog liefert mir einen Grund, Dinge genauer zu betrachteten um sie danach selbst wiedergeben zu können.&lt;/p&gt;
+
+&lt;h3 id=&quot;problem-1-ein-rezept-als-algorithmus-wiedergeben&quot;&gt;Problem 1: Ein Rezept als Algorithmus wiedergeben&lt;/h3&gt;
+
+&lt;p&gt;Eigentlich denkt man es wäre einfach ein Rezept so wiederzugeben, dass jemand durch diesen Algorithmus, denn ein Rezept ist nichts anderes als ein Algorithmus, genau das gleiche Ergebnis erhält, falls er sich penibel an die Anweisungen hält, wenn er/sie versucht es nachzukochen (ziemlich viele Kommas, Sorry, hatte angekündigt holprig zu sein).&lt;/p&gt;
+
+&lt;p&gt;Ich versuche im Nachfolgenden nun ein Rezept zum Kochen eines vegetarischen Nudelauflaufs möglichst genau wiederzugeben. (Bild wird vielleicht nachgereicht.)&lt;/p&gt;
+
+&lt;p&gt;Als Zutaten benötigen wir:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;500 g Penne Rigate aus Hartweizengrieß&lt;/p&gt;
+
+    &lt;p&gt;Hier fängt es schon an. Wie genau muss man sein? Reicht es anzugeben 500 g Nudeln zu benötigen oder müsste man 500 g Penne Rigate aus Hartweizengrieß und die Marke nenne? Am Ende wird kaum einen Unterschied machen, trotzdem gleiche wäre es nicht falls 500g Spagetti Nudeln verwendet werden, aber 500 g Penne Rigate aus Hartweizengrieß gefordert wurde.&lt;/p&gt;
+
+    &lt;p&gt;Im folgenden werde ich mich darauf beschränken die Menge und den Namen der benötigten Lebensmittel zu nennen (also ohne Marke) . Falls es nötig ist eine spezifischere Angabe zu machen wird sie genannt (z.B.: Nudel wird Penne Rigate).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;800 g gehackte Tomaten&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;200 g Mozzarella&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1 Zwiebel&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2 Zehen Knoblauch&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1 Becher Sahne (200 g)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;100 g Parmesan&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;400 g Tomaten&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2 l Wasser&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2 EL Olivenöl&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Benötigte Requisiten:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Schneidemesser&lt;/li&gt;
+  &lt;li&gt;Knoblauchpresse&lt;/li&gt;
+  &lt;li&gt;Schneidebrett&lt;/li&gt;
+  &lt;li&gt;2 Töpfe&lt;/li&gt;
+  &lt;li&gt;Käsereibe&lt;/li&gt;
+  &lt;li&gt;Auflaufform&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nun zum eigentlichen Rezept:&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Ofen auf 200 °C vorheizen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Die folgenden 2 Listen können parallel abgearbeitet werden.&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Topf mit 2 Litern Wasser füllen, salzen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;gefüllten Topf auf den Herd stellen, Deckel draufmachen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;den auf dem Herd stehenden Topf erhitzen und das Wasser zum kochen bringen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;gelegentlich umrühren&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Deckel vom Topf nehmen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Nudeln ins kochenden Wasser geben&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Nudeln 10 Minuten Kochen lassen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Hitze entfernen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Wasser abgießen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;auf einem Schneidbrett Zwiebel schälen und Knoblauch zerkleinern&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;die Zwiebel und den Knoblauch in zweiten Topf geben&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;zweiten Topf erhitzen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;zweiten Topf die Zwiebel und den (beide Zehen) Knoblauch mithilfe von 2 EL Olivenöl anbraten&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;800 g gehackten Tomaten in den zweiten Topf geben&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;gelegentlich umrühren&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;zweiten Topf 4 min köcheln lassen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Hitze entfernen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;den Becher Sahne hinzufügen&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;100 g Parmesan mithilfe der Käsereibe in den zweiten Topf reiben&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;400 g Tomaten auf dem Schneidebrett kleinschneiden (halbieren oder vierteln je nach Größe)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;
+    &lt;p&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;vermengen&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Sind beide Listen abgearbeitet kann mit der nächsten Liste begonnen werden.&lt;/p&gt;
+
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Inhalt des Nudeltopfs in den zweiten Topf geben und vermengen&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Inhalt des zweiten Topfs in die Auflaufform geben&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;200 g Mozzarella auf Schneidbrett in Scheiben schneiden&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Mozzarella auf der Nudel-Tomatenmenge verteilen&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Auflaufform in den Ofen stellen&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;20 Minuten auf mittlerer Schiene backen lassen&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Hitze entfernen&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Auflaufform aus dem Ofen nehmen und auf das Schneidebrett stellen&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Auflauf 10 Minuten abkühlen lassen&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Fertig! (Das aufschreiben hat länger gedauert als es zu Kochen)&lt;/p&gt;
+
+&lt;p&gt;Ich hoffe ich habe nichts vergessen (unwahrscheinlich).&lt;/p&gt;
+
+&lt;p&gt;Gleichzeitig habe ich hiermit das so ziemlich einzige Rezept aufgeschrieben welches ich kann.&lt;/p&gt;
+
+&lt;h3 id=&quot;problem-2-ein-gegebenen-algorithmus-erweitern&quot;&gt;Problem 2: Ein gegebenen Algorithmus erweitern&lt;/h3&gt;
+
+&lt;p&gt;Der im Buch gegebene Algorithmus erzeugt Wallpaper aus einem sich immer wiederholenden Muster. Hier ist der Psudocode:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-pseudocode&quot;&gt;input corna, cornb
+input side
+for i ← 1 to 100
+	for j ← 1 to 100
+		x ← corna + i * side / 100
+		y ← cornb + i * side / 100
+		c ← int(x²+y²)
+		if c even
+			then plot(i,j)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Die Aufgabe war nun diesen Algorithmus so zu erweitern, das drei anstelle von zwei Farben verwendet werden. Ich habe mich dazu entschieden die Aufgabe mit C# zu lösen, da ich damit aktuell zumindest am besten zurechtkomme und denke hiermit viele verschiedene Probleme schnell lösen zu können. Im Informatik-Studium haben wir in den letzten Semestern mit Java und C kennengelernt, privat habe ich mir Python angesehen. In Java bin ich mittlerweile auch einigermaßen gut.&lt;/p&gt;
+
+&lt;div class=&quot;language-c# highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c1&quot;&gt;// using System;&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// using System.Drawing;&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;// using System.Drawing.Imaging;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;Random&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rnd&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// new Random()&lt;/span&gt;
+
+&lt;span class=&quot;c1&quot;&gt;// breite und höhe des Bildes&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;500&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;height&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;500&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;Image&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;img&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;Bitmap&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;corna&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rnd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Next&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// zufälliger wert von 0 bis &amp;lt;= 1000&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cornb&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rnd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Next&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;side&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;rnd&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Next&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;m&quot;&gt;1000&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+
+&lt;span class=&quot;k&quot;&gt;using&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Graphics&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;gfx&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;Graphics&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;FromImage&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;))&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+	&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;++)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+		&lt;span class=&quot;k&quot;&gt;for&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;++)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+            
+        	&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;corna&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;i&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;side&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+         	&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;cornb&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;j&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;side&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;/&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;100&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+         	&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;x&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;+&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;*&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+
+            &lt;span class=&quot;c1&quot;&gt;// c % 3, gibt den Rest aus der Divison c / 3 zurück, bspw. 4 % 3 = 1 (4 / 3 = 1 Rest 1)&lt;/span&gt;
+			&lt;span class=&quot;n&quot;&gt;SolidBrush&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;brush&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;%&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;3&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;switch&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+				&lt;span class=&quot;m&quot;&gt;0&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;SolidBrush&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Black&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+				&lt;span class=&quot;m&quot;&gt;1&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;SolidBrush&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;White&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt;
+				&lt;span class=&quot;n&quot;&gt;_&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;=&amp;gt;&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;SolidBrush&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Gray&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;),&lt;/span&gt; &lt;span class=&quot;c1&quot;&gt;// default&lt;/span&gt;
+			&lt;span class=&quot;p&quot;&gt;};&lt;/span&gt;
+            
+			&lt;span class=&quot;n&quot;&gt;gfx&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;FillRectangle&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;brush&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;i&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;j&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;width&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;height&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+		&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+	&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+
+&lt;span class=&quot;n&quot;&gt;img&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;Save&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;@&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;$&quot;wallpaper&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;corna&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;cornb&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;side&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;.Png&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;ImageFormat&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;Png&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Zugegeben der Code brauch zumindest bei mir ziemlich lange bei der Ausführung.&lt;/p&gt;
+
+&lt;p&gt;Hier ein paar Ergebnisse. Mit dem Werten corna=98,  cornb=531, side=505 wird dieses Bild generiert.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;F:\VisualStudioProjekte\WallpaperAlgorithmen\WallpaperAlgorithmen\bin\Debug\net5.0\wallpaper98_531_505.Png&quot; alt=&quot;wallpaper98_531_505&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;corna=677,  cornb=411, side=577&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;F:\VisualStudioProjekte\WallpaperAlgorithmen\WallpaperAlgorithmen\bin\Debug\net5.0\wallpaper677_411_577.Png&quot; alt=&quot;wallpaper677_411_577&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Damit bin ich auch schon am Ende des Posts angelangt. Mal schauen, wann ich das nächste mal Poste oder ob ich für jedes Kapitel einen Post mache 😬.&lt;/p&gt;
+
+&lt;p&gt;Danke fürs Lesen!&lt;/p&gt;
+
+&lt;p&gt;PS: auch eher für mich: “```” macht den Codebereich in Markdown auf.&lt;/p&gt;</content><author><name>Florian</name></author><category term="New_Turing_Omnibus" /><category term="Rezept" /><summary type="html">Ich benutze diesen Post dafür, um mich ein bisschen mit Markdown (den Jekyll kann Markdown automatisch in Html umwandeln) vertraut zu machen. Ziel ist es Bilder und Codeausschnitte einzufügen.</summary></entry></feed>
