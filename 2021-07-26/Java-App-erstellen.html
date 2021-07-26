@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Java App erstellen: Vorbereitung | Irgendwas passiert hier doch</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Java App erstellen: Vorbereitung" />
+<meta name="author" content="Florian" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Als erstes: Was hat sich mein Vergangenheits-Ich eigentlich dabei gedacht, im letzten Post zumindest anzudeuten, dass es vielleicht für jedes Kapitel in New Turing Omnibus einen Post geben könnte? Wahrscheinlich nicht viel oder er wollte versuchen sein zukünftiges Ich zu pushen. Wie auch immer es hat nicht geklappt. Das Buch habe ich weitergelesen, die Übungen teilweise gemacht und keine Posts geschrieben. Eigentlich war ich sogar schon dabei einen Post über die Aufgaben zu einem Kapitel in dem es um Binärbäume (engl. Binary Tree) geht zu schreiben, habe mich aber letztlich dagegen entschieden, da ich das Gefühl hatte, dass der Code den ich geschrieben habe war nicht gut genug, um ihn zu präsentieren." />
+<meta property="og:description" content="Als erstes: Was hat sich mein Vergangenheits-Ich eigentlich dabei gedacht, im letzten Post zumindest anzudeuten, dass es vielleicht für jedes Kapitel in New Turing Omnibus einen Post geben könnte? Wahrscheinlich nicht viel oder er wollte versuchen sein zukünftiges Ich zu pushen. Wie auch immer es hat nicht geklappt. Das Buch habe ich weitergelesen, die Übungen teilweise gemacht und keine Posts geschrieben. Eigentlich war ich sogar schon dabei einen Post über die Aufgaben zu einem Kapitel in dem es um Binärbäume (engl. Binary Tree) geht zu schreiben, habe mich aber letztlich dagegen entschieden, da ich das Gefühl hatte, dass der Code den ich geschrieben habe war nicht gut genug, um ihn zu präsentieren." />
+<link rel="canonical" href="blog.floriansymmank.de/2021-07-26/Java-App-erstellen" />
+<meta property="og:url" content="blog.floriansymmank.de/2021-07-26/Java-App-erstellen" />
+<meta property="og:site_name" content="Irgendwas passiert hier doch" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-07-26T00:00:00+02:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Java App erstellen: Vorbereitung" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Florian"},"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"blog.floriansymmank.de/2021-07-26/Java-App-erstellen"},"url":"blog.floriansymmank.de/2021-07-26/Java-App-erstellen","headline":"Java App erstellen: Vorbereitung","dateModified":"2021-07-26T00:00:00+02:00","datePublished":"2021-07-26T00:00:00+02:00","description":"Als erstes: Was hat sich mein Vergangenheits-Ich eigentlich dabei gedacht, im letzten Post zumindest anzudeuten, dass es vielleicht für jedes Kapitel in New Turing Omnibus einen Post geben könnte? Wahrscheinlich nicht viel oder er wollte versuchen sein zukünftiges Ich zu pushen. Wie auch immer es hat nicht geklappt. Das Buch habe ich weitergelesen, die Übungen teilweise gemacht und keine Posts geschrieben. Eigentlich war ich sogar schon dabei einen Post über die Aufgaben zu einem Kapitel in dem es um Binärbäume (engl. Binary Tree) geht zu schreiben, habe mich aber letztlich dagegen entschieden, da ich das Gefühl hatte, dass der Code den ich geschrieben habe war nicht gut genug, um ihn zu präsentieren.","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+
+  <!-- RSS -->
+  <link type="application/atom+xml" rel="alternate" href="blog.floriansymmank.de/feed.xml" title="Irgendwas passiert hier doch" />
+
+  <!-- Google Analytics-->
+  
+</head>
+
+
+  <body>
+
+    <nav class="nav">
+  <div class="nav-container">
+    <a href="/">
+      <h2 class="nav-title">Irgendwas passiert hier doch</h2>
+    </a>
+    <ul>
+      <li><a href="/">Posts</a></li>
+      <li><a href="/tags">Tags</a></li>
+      <li><a href="/about">About</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+    <main>
+      <div class="post">
+  <div class="post-info">
+    <span>Von</span>
+    
+        Florian
+    
+
+    
+      <br>
+      <span>am&nbsp;</span>
+	  <time datetime="2021-07-26 00:00:00 +0200">26
+	  
+	  Juli
+	  2021
+	  </time>
+	 
+  </div>
+
+  <h1 class="post-title">Java App erstellen:  Vorbereitung</h1>
+  <div class="post-line"></div>
+
+  <p>Als erstes: Was hat sich mein Vergangenheits-Ich eigentlich dabei gedacht, im letzten Post zumindest anzudeuten, dass es vielleicht für jedes Kapitel in <em>New Turing Omnibus</em> einen  Post geben könnte? Wahrscheinlich nicht viel oder er wollte versuchen sein zukünftiges Ich zu pushen. Wie auch immer es hat nicht geklappt.  Das Buch habe ich weitergelesen, die Übungen teilweise gemacht und keine Posts geschrieben. Eigentlich war ich sogar schon dabei einen Post über die Aufgaben zu einem Kapitel in dem es um Binärbäume (engl. Binary Tree) geht zu schreiben, habe mich aber letztlich dagegen entschieden, da ich das Gefühl hatte, dass der Code den ich geschrieben habe war nicht gut genug, um ihn zu präsentieren.</p>
+
+<h2 id="überblick">Überblick</h2>
+
+<p>Ok, nachdem das aus der Welt geschaffen wurde nun zum relevanten Teil des Posts. Ich schreibe in der Überschrift <em>Java App erstellen</em>, was sich erst einmal nicht wirklich schwierig anhört, zu diesem Thema gibt es schließlich unzählige Tutorials im Internet, falls man aber nun eine etwas komplizierte App entwickeln möchte, als eine die nur “Hallo Welt” ausgibt muss mehr Zeit investiert werden. Was hält mich aber nun davon ab, wie die im oben genannten <em>New Turing Omnibus</em> pro Kapitel ein Post Idee diese einfach zu verwerfen.</p>
+
+<ol>
+  <li>Ich nehme mir die Entwicklung der App und das Schreiben der Posts fest vor (im Gegensatz zu <em>mal schauen</em>).</li>
+  <li>Ich brauch die App, die ich Entwickeln möchte, selbst.</li>
+</ol>
+
+<h5 id="was-für-eine-app-möchte-ich-also-nun-entwickeln">Was für eine App möchte ich also nun Entwickeln?</h5>
+
+<p>Ziel ist eine App mit der ich Trainingspläne erstellen/bearbeiten/ansehen kann zu entwickeln. In den Trainingsplänen sollen verschiedene Übungen vorhanden sein (mit Beschreibung, Bildern, Anzahl der Wiederholungen/Dauer usw.) die natürlich auch erstellt, bearbeitet und angesehen werden können müssen. Außerdem soll es noch eine Statistik zu den durchgeführten Übungen und Trainingsplänen geführt werden. Schließlich möchte ich noch zu bestimmten Zeitpunkten Pop-Ups erhalten, welche mich an das geplante Training erinnern und direkt in den Trainingsplan bringt.</p>
+
+<h2 id="technische-überlegungen">Technische Überlegungen</h2>
+
+<p>Ich habe nicht die App über App-Stores öffentlich verfügbar zu machen und werde die App primär für mich entwickeln und da ich kein iPhone, iPad oder iMac besitze werde ich die App nur für Android entwickeln. Soweit ich weiß, braucht man sowieso ein Apple Gerät um Programme für andere Apple Gerät zu kompilieren, also fällt das aus diesem Grund auch aus.</p>
+
+<p>Eine weitere Entscheidung ist es, mit welcher Programmiersprache/Framework/IDE ich versuche die App zu entwickeln. Letztes Jahr habe ich bereits eine sehr einfache App in C# mithilfe von Xamarin für Android und IOS Geräte entwickelt. Mittlerweile ist dieses Framework veraltet bzw. hat Microsoft mit MAUI (Multi-Platform App UI) ein verbessertes Framework bereitgestellt. Ich glaube aber, dass das für meinen Anwendungszweck zu kompliziert ist, da ich sowieso nicht vorhabe, die App auf verschiedenen Betriebssystemen laufen zu lassen. Ich werde mich also für den Standardweg für App-Entwicklung auf Android verlassen und Apps mit Java (man könnte auch Kotlin benutzen, kann ich aber nicht) und Android Studio entwickeln.</p>
+
+<p>Zur Hilfe um mich in der App-Entwicklung zurechtzufinden, benutze ich <a href="https://www.youtube.com/watch?v=fis26HvvDII">dieses Tutorial</a> auf dem YouTube Kanal von freeCodeCamp.org, welches keine bisherige Erfahrung im Bereich Programmierung voraussetzt.</p>
+
+<h2 id="einrichten-der-ide-und-technische-probleme">Einrichten der IDE und technische Probleme</h2>
+
+<p>Das Einrichten der Programme funktioniert grundsätzlich wie im Video gezeigt, aber ein paar kleine Probleme sind bei mir dennoch aufgetaucht.</p>
+
+<p>Bereits bei der Installation von Android Studio erschein bei mir diese Fehlermeldung in Verbindung mit dem Hardware Accelerated Execution Manager (HAXM) von Intel um virtuelle Geräte schneller ausführen zu können:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>This computer does not support Intel Virtualization Technology (VT-x) or it is being exclusively used by Hyper-V. HAXM cannot be installed. 
+Please ensure Hyper-V is disabled in Windows Features, or refer to the Intel HAXM documentation for more information.
+</code></pre></div></div>
+
+<p>Der normale Weg diesen Fehler zu beheben wäre es in den Windows-Features Hyper-V zu deaktivieren. Diese Option gibt es bei mir nicht, da ich Windows 10 Home habe. Schlussendlich habe ich den Befehl <code class="language-plaintext highlighter-rouge">bcdedit /set hypervisorlaunchtype off</code> zum Deaktivieren von Hyper-V gefunden und siehe da es funktioniert.</p>
+
+<p>Um zu überprüfen, ob HAXM wirklich installiert ist kann <code class="language-plaintext highlighter-rouge">sc query intelhaxm</code> genutzt werden. Bei der Ausgabe ist der State wichtig, wenn HAXM installiert ist und läuft muss dort 4  RUNNING stehen.</p>
+
+<p>Mein zweites Problem ist <em>wahrscheinlich</em> nur temporär: Android Studio beim Erstellen der Anwendung:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Installed Build Tools revision 31.0.0 is corrupted. Remove and install again using the SDK Manager.
+</code></pre></div></div>
+
+<p><a href="https://stackoverflow.com/a/68430992">Hierbei müssen zwei Dateien im Ordner des Buildtools 31.0.0 umbenannt werden</a></p>
+
+<p>Drittes und letztes kleines Problem wieder beim Erstellen, obwohl ich ein vorbereitetes Template verwende:</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Manifest merger failed : Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined. See https://developer.android.com/guide/topics/manifest/activity-element#exported for details.
+</code></pre></div></div>
+
+<p>Einfache Lösung: In der AndroidManifest.xml Datei ein <code class="language-plaintext highlighter-rouge">android:exported="true"</code> zu der einzigen bereits vorhandenen activity hinzugefügen.</p>
+
+<p>Ansonsten läuft alles reibungslos. Ich gehe davon aus, dass ich in einer Woche bis 10 Tagen mit dem Projekt fertig bin. Bis dahin kommt zu jedem Fortschritt ein Blogpost Update.</p>
+
+<p>PS: komplett unrelatiert [WIN] + [V] öffnet den Clipboard Verlauf 😀</p>
+
+</div>
+
+
+
+<div class="pagination">
+  
+  
+    <a href="/2021-06-07/Warum" class="right arrow">&#8594;</a>
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+    </main>
+
+    <footer>
+  <span>
+    &copy; <time datetime="2021-07-26 22:45:11 +0200">2021</time> Florian Symmank. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+  </span>
+</footer>
+
+  </body>
+</html>
