@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="blog.floriansymmank.de/feed.xml" rel="self" type="application/atom+xml" /><link href="blog.floriansymmank.de/" rel="alternate" type="text/html" /><updated>2021-07-26T23:03:49+02:00</updated><id>blog.floriansymmank.de/feed.xml</id><title type="html">Irgendwas passiert hier doch</title><subtitle>Florian Symmank's blog</subtitle><author><name>Florian Symmank</name><email>FlorianSymmank@gmx.de</email></author><entry><title type="html">Java App erstellen: Vorbereitung</title><link href="blog.floriansymmank.de/2021-07-26/Java-App-erstellen" rel="alternate" type="text/html" title="Java App erstellen: Vorbereitung" /><published>2021-07-26T00:00:00+02:00</published><updated>2021-07-26T00:00:00+02:00</updated><id>blog.floriansymmank.de/2021-07-26/Java%20App%20erstellen</id><content type="html" xml:base="blog.floriansymmank.de/2021-07-26/Java-App-erstellen">&lt;p&gt;Als erstes: Was hat sich mein Vergangenheits-Ich eigentlich dabei gedacht, im letzten Post zumindest anzudeuten, dass es vielleicht für jedes Kapitel in &lt;em&gt;New Turing Omnibus&lt;/em&gt; einen  Post geben könnte? Wahrscheinlich nicht viel oder er wollte versuchen sein zukünftiges Ich zu pushen. Wie auch immer es hat nicht geklappt.  Das Buch habe ich weitergelesen, die Übungen teilweise gemacht und keine Posts geschrieben. Eigentlich war ich sogar schon dabei einen Post über die Aufgaben zu einem Kapitel in dem es um Binärbäume (engl. Binary Tree) geht zu schreiben, habe mich aber letztlich dagegen entschieden, da ich das Gefühl hatte, dass der Code den ich geschrieben habe war nicht gut genug, um ihn zu präsentieren.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="blog.floriansymmank.de/feed.xml" rel="self" type="application/atom+xml" /><link href="blog.floriansymmank.de/" rel="alternate" type="text/html" /><updated>2021-07-27T22:15:01+02:00</updated><id>blog.floriansymmank.de/feed.xml</id><title type="html">Irgendwas passiert hier doch</title><subtitle>Florian Symmank's blog</subtitle><author><name>Florian Symmank</name><email>FlorianSymmank@gmx.de</email></author><entry><title type="html">Sportapp Tag #1</title><link href="blog.floriansymmank.de/2021-07-27/Sportapp-entwickeln-Tag-1" rel="alternate" type="text/html" title="Sportapp Tag #1" /><published>2021-07-27T00:00:00+02:00</published><updated>2021-07-27T00:00:00+02:00</updated><id>blog.floriansymmank.de/2021-07-27/Sportapp%20entwickeln%20Tag%201</id><content type="html" xml:base="blog.floriansymmank.de/2021-07-27/Sportapp-entwickeln-Tag-1">&lt;h2 id=&quot;ideensammlung&quot;&gt;Ideensammlung&lt;/h2&gt;
+
+&lt;p&gt;Nach den ersten technischen Überlegungen im &lt;a href=&quot;/2021-07-26/Java-App-erstellen&quot;&gt;Post&lt;/a&gt; von gestern  bin ich nun erst einmal einen Schritt zurückgegangen und habe mir ein paar weiterführende Gedanken zum generellen Aufbau und den Funktionen, die die App am Ende haben soll, gemacht.&lt;/p&gt;
+
+&lt;p&gt;Für die nachfolgenden Diagramme habe ich &lt;a href=&quot;https://app.diagrams.net&quot;&gt;disese&lt;/a&gt; Website verwendet.&lt;/p&gt;
+
+&lt;h3 id=&quot;navigation&quot;&gt;Navigation&lt;/h3&gt;
+
+&lt;p&gt;Ein wichtiges Element zur Navigation ist das Menü auf der linken Seite (in Android &lt;em&gt;Navigation Drawer&lt;/em&gt;) mit den Punkten Trainingsplaylists, Übungen, Statistik und Erinnerungen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/AndroidApp/1_menuStruktur.png&quot; alt=&quot;1_menuStruktur&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;trainingsplaylists&quot;&gt;Trainingsplaylists&lt;/h3&gt;
+
+&lt;p&gt;Im Menüpunkt Trainingsplaylists sollen alle angelegten Traingsplaylists, mit ein paar Infos, zur Bearbeitung und zum Starten der Playlist zu Verfügung stehen. Außerdem sollen hier auch neue Playlists angelegt werden können. Vielleicht kommt eine weitere Funktion zum Suchen einer bestimmten Playlist noch dazu.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/AndroidApp/2_playlistUebersicht.png&quot; alt=&quot;2_playlistUebersicht&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Nach einem Klick oder Touch?? auf “Neue Playlist” soll ein neues Fenster erscheinen, indem der Name der Playlist angegeben werden kann. Außerdem soll es die Möglichkeit geben diese Playlist als Zeitplaylist zu markieren, später dazu mehr.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/AndroidApp/3_playlistErstellen.png&quot; alt=&quot;3_playlistErstellen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Falls der Datensatz als ganzes angeklickt wird, soll eine Übersicht der Übungen innerhalb der Playlist erscheinen. Die einzelnen Übungen sollen dabei untereinander verschoben werden können, um ihre Reihenfolge zu verändern. Außerdem soll ein weiteres Fenster zum Bearbeiten der Playlist im nachhinein existieren. Auch müssen weitere Übungen der Playlist hinzugefügt werden können.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/AndroidApp/4_playlistDetail.png&quot; alt=&quot;4_playlistDetail&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mit einem &lt;em&gt;klick&lt;/em&gt; auf “Übung hinzufügen” wird ein Fenster geöffnet, indem Übungen gesucht werden können und auch die Voreinstellungen der Anzahl der Wiederholungen abgeändert werden können. Praktisch wäre es auch einen Button zu haben, der nach dem Speichern einer Übung ein neues Fenster zum Hinzufügen weiterer Übungen zulässt.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/AndroidApp/6_playlistUebungHinzufuegen.png&quot; alt=&quot;6_playlistUebungHinzufuegen&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Hinzugefügte Übungen sollen auch im nachhinein abgeändert werden können.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/AndroidApp/5_playlistUebungDetail.png&quot; alt=&quot;5_playlistUebungDetail&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Beim Starten einer Playlist kommt die vorhin genannte &lt;em&gt;Zeitplaylist&lt;/em&gt; als alternative Option einer Playlist zum Tragen. Anders als bei einer normalen Playlist werden Übungen automatisch nach dem Ablaufen der angegebenen Zeitspanne beendet und in die Pause übergeleitet. Nach der Pause wird direkt die nächste Übung gestartet. Bei einer normalen Playlist muss nach dem Beenden einer Übung auf den Haken in der unteren rechten Ecke geklickt werden. Beim Übergang zur nächsten Übung soll eine Statistik zur abgearbeiteten Übung geführt werden. Im oberen Bereich kann zwischen den Übungen gesprungen werden, was aber nicht in der Statistik wertet wird, außer vielleicht bei übersprungenen Übungen 😅.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/images/AndroidApp/7_playlistUebungdruchfuehrenAnzahl.png&quot; alt=&quot;7_playlistUebungdruchfuehrenAnzahl&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/images/AndroidApp/8_playlistUebungdruchfuehrenZeit.png&quot; alt=&quot;8_playlistUebungdruchfuehrenZeit&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;übungen&quot;&gt;Übungen&lt;/h3&gt;
+
+&lt;p&gt;Analog zur Playlistübersicht soll es auch eine Übungsübersicht geben in der neue Übungen angelegt und alte Übungen bearbeitet werden sollen. Hier ist auch schon die Übungssuche mit eingeplant. Auch sollen einzelne Übungen von hier aus gestartet werden sollen.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/AndroidApp/9_uebungenUebersicht.png&quot; alt=&quot;9_uebungenUebersicht&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Das Anlegen und Bearbeiten von Übungen ist in großen Teilen identisch.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/images/AndroidApp/10_uebungNeueAnlegen.png&quot; alt=&quot;10_uebungNeueAnlegen&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/images/AndroidApp/11_uebungBearbeiten.png&quot; alt=&quot;11_uebungBearbeiten&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;statistik&quot;&gt;Statistik&lt;/h3&gt;
+
+&lt;p&gt;So könnte die Statistik-Seite aussehen, noch ohne den Punkt übersprungene Übungen 😐.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/AndroidApp/12_statisik.png&quot; alt=&quot;12_statisik&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;erinnerungen&quot;&gt;Erinnerungen&lt;/h3&gt;
+
+&lt;p&gt;Relativ einfach sollen auch die Erinnerungen gestaltet werden. Zu einer gegebenen Zeit soll eine Push-Nachricht ausgelöst werden können, die direkt in die Übung/Playlist führt. Die Erinnerungen sollen auch wiederholbar sein z. B. täglich, wöchentlich, mittwochs und freitags usw.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt; &lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/images/AndroidApp/13_erinnerungUebersicht.png&quot; alt=&quot;13_erinnerungUebersicht&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/images/AndroidApp/14_erinnerungAnlegen.png&quot; alt=&quot;14_erinnerungAnlegen&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Heute habe ich nichts programmiert, sondern nur den Aufbau der App geplant, was länger gedauert hat länger gedauert als gedacht. Trotzdem denke ich, dass es das Wert war, da ich jetzt ein klares Bild habe welche Fenster ich benötigen werde.&lt;/p&gt;
+
+&lt;p&gt;PS: Heute sehr weird:&lt;/p&gt;
+
+&lt;p&gt;Am Ende eines Ganzsatzes setzt man nach Abkürzungen nur &lt;em&gt;einen&lt;/em&gt; Punkt.&lt;/p&gt;
+
+&lt;p&gt;Beispielsweise richtig wäre: Die Wochentage sind Montag, Dienstag, Mittwoch, usw.&lt;/p&gt;
+
+&lt;p&gt;Falsch wäre: Die Wochentage sind Montag, Dienstag, Mittwoch, usw.&lt;strong&gt;.&lt;/strong&gt;&lt;/p&gt;</content><author><name>Florian</name></author><category term="App_Entwicklung" /><summary type="html">Ideensammlung</summary></entry><entry><title type="html">Java App erstellen: Vorbereitung</title><link href="blog.floriansymmank.de/2021-07-26/Java-App-erstellen" rel="alternate" type="text/html" title="Java App erstellen: Vorbereitung" /><published>2021-07-26T00:00:00+02:00</published><updated>2021-07-26T00:00:00+02:00</updated><id>blog.floriansymmank.de/2021-07-26/Java%20App%20erstellen</id><content type="html" xml:base="blog.floriansymmank.de/2021-07-26/Java-App-erstellen">&lt;p&gt;Als erstes: Was hat sich mein Vergangenheits-Ich eigentlich dabei gedacht, im letzten Post zumindest anzudeuten, dass es vielleicht für jedes Kapitel in &lt;em&gt;New Turing Omnibus&lt;/em&gt; einen  Post geben könnte? Wahrscheinlich nicht viel oder er wollte versuchen sein zukünftiges Ich zu pushen. Wie auch immer es hat nicht geklappt.  Das Buch habe ich weitergelesen, die Übungen teilweise gemacht und keine Posts geschrieben. Eigentlich war ich sogar schon dabei einen Post über die Aufgaben zu einem Kapitel in dem es um Binärbäume (engl. Binary Tree) geht zu schreiben, habe mich aber letztlich dagegen entschieden, da ich das Gefühl hatte, dass der Code den ich geschrieben habe war nicht gut genug, um ihn zu präsentieren.&lt;/p&gt;
 
 &lt;h2 id=&quot;überblick&quot;&gt;Überblick&lt;/h2&gt;
 

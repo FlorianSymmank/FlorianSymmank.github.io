@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="de">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Sportapp Tag #1 | Irgendwas passiert hier doch</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Sportapp Tag #1" />
+<meta name="author" content="Florian" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Ideensammlung" />
+<meta property="og:description" content="Ideensammlung" />
+<link rel="canonical" href="blog.floriansymmank.de/2021-07-27/Sportapp-entwickeln-Tag-1" />
+<meta property="og:url" content="blog.floriansymmank.de/2021-07-27/Sportapp-entwickeln-Tag-1" />
+<meta property="og:site_name" content="Irgendwas passiert hier doch" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-07-27T00:00:00+02:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Sportapp Tag #1" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Florian"},"@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"blog.floriansymmank.de/2021-07-27/Sportapp-entwickeln-Tag-1"},"url":"blog.floriansymmank.de/2021-07-27/Sportapp-entwickeln-Tag-1","headline":"Sportapp Tag #1","dateModified":"2021-07-27T00:00:00+02:00","datePublished":"2021-07-27T00:00:00+02:00","description":"Ideensammlung","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:400,400i,700">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/assets/apple-touch-icon.png">
+
+  <!-- RSS -->
+  <link type="application/atom+xml" rel="alternate" href="blog.floriansymmank.de/feed.xml" title="Irgendwas passiert hier doch" />
+
+  <!-- Google Analytics-->
+  
+</head>
+
+
+  <body>
+
+    <nav class="nav">
+  <div class="nav-container">
+    <a href="/">
+      <h2 class="nav-title">Irgendwas passiert hier doch</h2>
+    </a>
+    <ul>
+      <li><a href="/">Posts</a></li>
+      <li><a href="/tags">Tags</a></li>
+      <li><a href="/about">About</a></li>
+    </ul>
+  </div>
+</nav>
+
+
+    <main>
+      <div class="post">
+  <div class="post-info">
+    <span>Von</span>
+    
+        Florian
+    
+
+    
+      <br>
+      <span>am&nbsp;</span>
+	  <time datetime="2021-07-27 00:00:00 +0200">27
+	  
+	  Juli
+	  2021
+	  </time>
+	 
+  </div>
+
+  <h1 class="post-title">Sportapp Tag #1</h1>
+  <div class="post-line"></div>
+
+  <h2 id="ideensammlung">Ideensammlung</h2>
+
+<p>Nach den ersten technischen Überlegungen im <a href="/2021-07-26/Java-App-erstellen">Post</a> von gestern  bin ich nun erst einmal einen Schritt zurückgegangen und habe mir ein paar weiterführende Gedanken zum generellen Aufbau und den Funktionen, die die App am Ende haben soll, gemacht.</p>
+
+<p>Für die nachfolgenden Diagramme habe ich <a href="https://app.diagrams.net">disese</a> Website verwendet.</p>
+
+<h3 id="navigation">Navigation</h3>
+
+<p>Ein wichtiges Element zur Navigation ist das Menü auf der linken Seite (in Android <em>Navigation Drawer</em>) mit den Punkten Trainingsplaylists, Übungen, Statistik und Erinnerungen.</p>
+
+<p><img src="/assets/images/AndroidApp/1_menuStruktur.png" alt="1_menuStruktur" /></p>
+
+<h3 id="trainingsplaylists">Trainingsplaylists</h3>
+
+<p>Im Menüpunkt Trainingsplaylists sollen alle angelegten Traingsplaylists, mit ein paar Infos, zur Bearbeitung und zum Starten der Playlist zu Verfügung stehen. Außerdem sollen hier auch neue Playlists angelegt werden können. Vielleicht kommt eine weitere Funktion zum Suchen einer bestimmten Playlist noch dazu.</p>
+
+<p><img src="/assets/images/AndroidApp/2_playlistUebersicht.png" alt="2_playlistUebersicht" /></p>
+
+<p>Nach einem Klick oder Touch?? auf “Neue Playlist” soll ein neues Fenster erscheinen, indem der Name der Playlist angegeben werden kann. Außerdem soll es die Möglichkeit geben diese Playlist als Zeitplaylist zu markieren, später dazu mehr.</p>
+
+<p><img src="/assets/images/AndroidApp/3_playlistErstellen.png" alt="3_playlistErstellen" /></p>
+
+<p>Falls der Datensatz als ganzes angeklickt wird, soll eine Übersicht der Übungen innerhalb der Playlist erscheinen. Die einzelnen Übungen sollen dabei untereinander verschoben werden können, um ihre Reihenfolge zu verändern. Außerdem soll ein weiteres Fenster zum Bearbeiten der Playlist im nachhinein existieren. Auch müssen weitere Übungen der Playlist hinzugefügt werden können.</p>
+
+<p><img src="/assets/images/AndroidApp/4_playlistDetail.png" alt="4_playlistDetail" /></p>
+
+<p>Mit einem <em>klick</em> auf “Übung hinzufügen” wird ein Fenster geöffnet, indem Übungen gesucht werden können und auch die Voreinstellungen der Anzahl der Wiederholungen abgeändert werden können. Praktisch wäre es auch einen Button zu haben, der nach dem Speichern einer Übung ein neues Fenster zum Hinzufügen weiterer Übungen zulässt.</p>
+
+<p><img src="/assets/images/AndroidApp/6_playlistUebungHinzufuegen.png" alt="6_playlistUebungHinzufuegen" /></p>
+
+<p>Hinzugefügte Übungen sollen auch im nachhinein abgeändert werden können.</p>
+
+<p><img src="/assets/images/AndroidApp/5_playlistUebungDetail.png" alt="5_playlistUebungDetail" /></p>
+
+<p>Beim Starten einer Playlist kommt die vorhin genannte <em>Zeitplaylist</em> als alternative Option einer Playlist zum Tragen. Anders als bei einer normalen Playlist werden Übungen automatisch nach dem Ablaufen der angegebenen Zeitspanne beendet und in die Pause übergeleitet. Nach der Pause wird direkt die nächste Übung gestartet. Bei einer normalen Playlist muss nach dem Beenden einer Übung auf den Haken in der unteren rechten Ecke geklickt werden. Beim Übergang zur nächsten Übung soll eine Statistik zur abgearbeiteten Übung geführt werden. Im oberen Bereich kann zwischen den Übungen gesprungen werden, was aber nicht in der Statistik wertet wird, außer vielleicht bei übersprungenen Übungen 😅.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/AndroidApp/7_playlistUebungdruchfuehrenAnzahl.png" alt="7_playlistUebungdruchfuehrenAnzahl" /></td>
+      <td><img src="/assets/images/AndroidApp/8_playlistUebungdruchfuehrenZeit.png" alt="8_playlistUebungdruchfuehrenZeit" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="übungen">Übungen</h3>
+
+<p>Analog zur Playlistübersicht soll es auch eine Übungsübersicht geben in der neue Übungen angelegt und alte Übungen bearbeitet werden sollen. Hier ist auch schon die Übungssuche mit eingeplant. Auch sollen einzelne Übungen von hier aus gestartet werden sollen.</p>
+
+<p><img src="/assets/images/AndroidApp/9_uebungenUebersicht.png" alt="9_uebungenUebersicht" /></p>
+
+<p>Das Anlegen und Bearbeiten von Übungen ist in großen Teilen identisch.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/AndroidApp/10_uebungNeueAnlegen.png" alt="10_uebungNeueAnlegen" /></td>
+      <td><img src="/assets/images/AndroidApp/11_uebungBearbeiten.png" alt="11_uebungBearbeiten" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="statistik">Statistik</h3>
+
+<p>So könnte die Statistik-Seite aussehen, noch ohne den Punkt übersprungene Übungen 😐.</p>
+
+<p><img src="/assets/images/AndroidApp/12_statisik.png" alt="12_statisik" /></p>
+
+<h3 id="erinnerungen">Erinnerungen</h3>
+
+<p>Relativ einfach sollen auch die Erinnerungen gestaltet werden. Zu einer gegebenen Zeit soll eine Push-Nachricht ausgelöst werden können, die direkt in die Übung/Playlist führt. Die Erinnerungen sollen auch wiederholbar sein z. B. täglich, wöchentlich, mittwochs und freitags usw.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="/assets/images/AndroidApp/13_erinnerungUebersicht.png" alt="13_erinnerungUebersicht" /></td>
+      <td><img src="/assets/images/AndroidApp/14_erinnerungAnlegen.png" alt="14_erinnerungAnlegen" /></td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Heute habe ich nichts programmiert, sondern nur den Aufbau der App geplant, was länger gedauert hat länger gedauert als gedacht. Trotzdem denke ich, dass es das Wert war, da ich jetzt ein klares Bild habe welche Fenster ich benötigen werde.</p>
+
+<p>PS: Heute sehr weird:</p>
+
+<p>Am Ende eines Ganzsatzes setzt man nach Abkürzungen nur <em>einen</em> Punkt.</p>
+
+<p>Beispielsweise richtig wäre: Die Wochentage sind Montag, Dienstag, Mittwoch, usw.</p>
+
+<p>Falsch wäre: Die Wochentage sind Montag, Dienstag, Mittwoch, usw.<strong>.</strong></p>
+
+</div>
+
+
+
+<div class="pagination">
+  
+  
+    <a href="/2021-07-26/Java-App-erstellen" class="right arrow">&#8594;</a>
+  
+
+  <a href="#" class="top">Top</a>
+</div>
+    </main>
+
+    <footer>
+  <span>
+    &copy; <time datetime="2021-07-27 22:15:01 +0200">2021</time> Florian Symmank. Made with Jekyll using the <a href="https://github.com/chesterhow/tale/">Tale</a> theme.
+  </span>
+</footer>
+
+  </body>
+</html>
